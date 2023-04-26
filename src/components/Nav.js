@@ -7,7 +7,7 @@ const Nav = ({ title }) => {
             <div id="logo">{ title }</div>
             <ul>
                 <li>
-                    <Link to="/">Home</Link>
+                    <Link to="/">Quiz</Link>
                 </li>
                 <li>
                     <Link to="/quotes">Quotes</Link>

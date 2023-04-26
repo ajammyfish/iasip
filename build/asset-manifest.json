@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iasip/static/css/main.fb4f82cb.css",
+    "main.js": "/iasip/static/js/main.01cb44f2.js",
+    "static/js/787.635aedaa.chunk.js": "/iasip/static/js/787.635aedaa.chunk.js",
+    "index.html": "/iasip/index.html",
+    "main.fb4f82cb.css.map": "/iasip/static/css/main.fb4f82cb.css.map",
+    "main.01cb44f2.js.map": "/iasip/static/js/main.01cb44f2.js.map",
+    "787.635aedaa.chunk.js.map": "/iasip/static/js/787.635aedaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb4f82cb.css",
+    "static/js/main.01cb44f2.js"
+  ]
+}
